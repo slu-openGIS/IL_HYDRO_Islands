@@ -1,5 +1,5 @@
 # IL_HYDRO_ISLANDS
-## Mississippi River Islands in Illinois
+### Mississippi River Islands in Illinois
 
 [![](https://img.shields.io/github/release/slu-openGIS/IL_HYDRO_Islands.svg?label=version)](https://github.com/slu-openGIS/IL_HYDRO_Islands/releases)
 [![](https://img.shields.io/github/last-commit/slu-openGIS/IL_HYDRO_Islands.svg)](https://github.com/slu-openGIS/IL_HYDRO_Islands/commits/master)
@@ -8,8 +8,8 @@
 ### Abstract
 The north side of the City sits opposite a group of islands on the Illinois side of the Mississippi, some of which are included in the Illinois Hydrology layer. The largest of these islands, Mosenthein Island, is described by this shapefile.
 
-### Use with `R`
-If you use `R`, the [`gateway` package](https://github.com/slu-openGIS/gateway) can be used to download and import these data as a simple feature object:
+### Use with R
+The [`gateway` package](https://github.com/slu-openGIS/gateway) can be used to download and import these data as a simple feature object:
 
 ```r
 city <- gateway::gw_download("IL_HYDRO_ISLANDS")
