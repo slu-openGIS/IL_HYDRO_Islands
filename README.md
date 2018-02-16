@@ -1,5 +1,5 @@
 # IL_HYDRO_ISLANDS
-### Mississippi River Islands in Illinois
+## Mississippi River Islands in Illinois
 
 [![](https://img.shields.io/github/release/slu-openGIS/IL_HYDRO_Islands.svg?label=version)](https://github.com/slu-openGIS/IL_HYDRO_Islands/releases)
 [![](https://img.shields.io/github/last-commit/slu-openGIS/IL_HYDRO_Islands.svg)](https://github.com/slu-openGIS/IL_HYDRO_Islands/commits/master)
