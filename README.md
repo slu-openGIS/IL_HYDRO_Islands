@@ -16,8 +16,8 @@ city <- gateway::gw_download("IL_HYDRO_ISLANDS")
 ```
 
 ## About the SLU DSS
-### Spring 2018 - Functions & Packages in `R`
-The four sessions for the Spring 2018 seminar will cover ways to use R for managing research projects. We’ll discuss how to write functions that automate repetitive tasks, how to include those functions in your own package, and how to track your package development work using Git and GitHub.
+#### The openGIS Project
+The openGIS Project is a faculty-student collaboration at SLU organized by [Christopher Prener, Ph.D.](mailto:chris.prener@slu.edu}). The goal of the project is to produce publicly available spatial data about the St. Louis region.
 
 ### About the SLU Data Science Seminar
 The [SLU Data Science Seminar](https://slu-dss.githb.io) (DSS) is a collaborative, interdisciplinary group at Saint Louis University focused on building researchers’ data science skills using open source software. We currently host seminars focused on the programming language R. The SLU DSS is co-organized by [Christina Gacia, Ph.D.](mailto:christina.garcia@slu.edu), [Kelly Lovejoy, Ph.D.](mailto:kelly.lovejoy@slu.edu@slu.edu), and [Christopher Prener, Ph.D.](mailto:chris.prener@slu.edu}). You can keep up with us here on GitHub, on our [website](https://slu-dss.githb.io), and on [Twitter](https://twitter.com/SLUDSS).
