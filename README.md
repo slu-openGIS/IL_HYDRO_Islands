@@ -16,7 +16,7 @@ city <- gateway::gw_download("IL_HYDRO_ISLANDS")
 ```
 
 ## About the SLU DSS
-#### The openGIS Project
+### The openGIS Project
 The openGIS Project is a faculty-student collaboration at SLU organized by [Christopher Prener, Ph.D.](mailto:chris.prener@slu.edu}). The goal of the project is to produce publicly available spatial data about the St. Louis region.
 
 ### About the SLU Data Science Seminar
