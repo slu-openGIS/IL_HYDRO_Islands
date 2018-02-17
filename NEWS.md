@@ -1,3 +1,9 @@
+# IL_HYDRO_Islands v1.2.1.90000
+
+* Add DOI badge to README
+* Clarify intro text from README
+* Clarify gateway function
+
 # IL_HYDRO_Islands v1.2
 
 * Add DOI number from Zenodo
