@@ -15,7 +15,7 @@ The north side of the City sits opposite a group of islands on the Illinois side
 The [`gateway` package](https://github.com/slu-openGIS/gateway) can be used to download and import these data as a simple feature object:
 
 ```r
-city <- gateway::gw_get_repo("IL_HYDRO_Islands")
+islands <- gateway::gw_get_repo("IL_HYDRO_Islands")
 ```
 
 ## About the SLU DSS
