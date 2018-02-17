@@ -6,6 +6,7 @@
 [![](https://img.shields.io/github/release/slu-openGIS/IL_HYDRO_Islands.svg?label=version)](https://github.com/slu-openGIS/IL_HYDRO_Islands/releases)
 [![](https://img.shields.io/github/last-commit/slu-openGIS/IL_HYDRO_Islands.svg)](https://github.com/slu-openGIS/IL_HYDRO_Islands/commits/master)
 [![](https://img.shields.io/github/repo-size/slu-openGIS/IL_HYDRO_Islands.svg)](https://github.com/slu-openGIS/IL_HYDRO_Islands/)
+[![DOI](https://zenodo.org/badge/121709236.svg)](https://zenodo.org/badge/latestdoi/121709236)
 
 ### Abstract
 The north side of the City sits opposite a group of islands on the Illinois side of the Mississippi, some of which are included in the Illinois Hydrology layer. The largest of these islands, Mosenthein Island, is described by this shapefile. These data can be previewed interactively using the [`.geoJSON` file in this repository](https://github.com/slu-openGIS/IL_HYDRO_Islands/blob/master/geoJSON/IL_HYDRO_Islands.geoJSON).
