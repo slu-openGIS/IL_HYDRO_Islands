@@ -4,7 +4,7 @@
   * **Title -** Mississippi River Islands in Illinois
   * **Date of Original Publication -** 08 Mar 2017
   * **Date of Last Update -** 15 Feb 2018
-  * **Edition -** v1.1
+  * **Edition -** v1.2
   * **Abstract -** The north side of the City sits opposite a group of islands on the Illinois side of the Mississippi, some of which are included in the Illinois Hydrology layer. The largest of these islands, Mosenthein Island, is described by this shapefile.
   * **Purpose -** Citywide mapping
   * **Maintenance Frequency -** Infrequent

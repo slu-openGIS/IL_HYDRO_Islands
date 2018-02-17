@@ -1,3 +1,7 @@
+# IL_HYDRO_Islands v1.2
+
+* Add DOI number from Zenodo
+
 # IL_HYDRO_Islands v1.1
 
 * Add `.geoJSON` file
